@@ -1,0 +1,16 @@
+{
+  "buildFiles": [
+    "/Users/shixi_yunrui/Developer/projects/MagicCamera/Project-AndroidStudio/magicfilter/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/Users/shixi_yunrui/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/shixi_yunrui/Developer/projects/MagicCamera/Project-AndroidStudio/magicfilter/.externalNativeBuild/cmake/debug/armeabi --target clean"
+  ],
+  "libraries": {
+    "magic-Debug-armeabi": {
+      "artifactName": "magic",
+      "buildCommand": "/Users/shixi_yunrui/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/shixi_yunrui/Developer/projects/MagicCamera/Project-AndroidStudio/magicfilter/.externalNativeBuild/cmake/debug/armeabi --target magic",
+      "abi": "armeabi",
+      "output": "/Users/shixi_yunrui/Developer/projects/MagicCamera/Project-AndroidStudio/magicfilter/build/intermediates/cmake/debug/obj/armeabi/libmagic.so"
+    }
+  }
+}

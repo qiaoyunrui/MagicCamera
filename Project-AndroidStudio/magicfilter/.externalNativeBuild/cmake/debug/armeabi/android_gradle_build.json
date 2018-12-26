@@ -1,0 +1,59 @@
+
+{
+	"buildFiles" : 
+	[
+		"/Users/shixi_yunrui/Developer/projects/MagicCamera/Project-AndroidStudio/magicfilter/CMakeLists.txt"
+	],
+	"cleanCommands" : 
+	[
+		"/Users/shixi_yunrui/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/shixi_yunrui/Developer/projects/MagicCamera/Project-AndroidStudio/magicfilter/.externalNativeBuild/cmake/debug/armeabi --target clean"
+	],
+	"cppFileExtensions" : [ "cpp" ],
+	"libraries" : 
+	{
+		"magic-Debug-armeabi" : 
+		{
+			"abi" : "armeabi",
+			"artifactName" : "magic",
+			"buildCommand" : "/Users/shixi_yunrui/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/shixi_yunrui/Developer/projects/MagicCamera/Project-AndroidStudio/magicfilter/.externalNativeBuild/cmake/debug/armeabi --target magic",
+			"buildType" : "debug",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=armv5te-none-linux-androideabi --gcc-toolchain=/Users/shixi_yunrui/Developer/android-ndk-r15c/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/shixi_yunrui/Developer/android-ndk-r15c/sysroot  -Dmagic_EXPORTS -isystem /Users/shixi_yunrui/Developer/android-ndk-r15c/sources/cxx-stl/llvm-libc++/include -isystem /Users/shixi_yunrui/Developer/android-ndk-r15c/sources/android/support/include -isystem /Users/shixi_yunrui/Developer/android-ndk-r15c/sources/cxx-stl/llvm-libc++abi/include  -isystem /Users/shixi_yunrui/Developer/android-ndk-r15c/sysroot/usr/include/arm-linux-androideabi -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv5te -mtune=xscale -msoft-float -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11  -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/Users/shixi_yunrui/Developer/projects/MagicCamera/Project-AndroidStudio/magicfilter/src/main/jni/MagicJni.cpp",
+					"workingDirectory" : "/Users/shixi_yunrui/Developer/projects/MagicCamera/Project-AndroidStudio/magicfilter/.externalNativeBuild/cmake/debug/armeabi"
+				},
+				
+				{
+					"flags" : "  --target=armv5te-none-linux-androideabi --gcc-toolchain=/Users/shixi_yunrui/Developer/android-ndk-r15c/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/shixi_yunrui/Developer/android-ndk-r15c/sysroot  -Dmagic_EXPORTS -isystem /Users/shixi_yunrui/Developer/android-ndk-r15c/sources/cxx-stl/llvm-libc++/include -isystem /Users/shixi_yunrui/Developer/android-ndk-r15c/sources/android/support/include -isystem /Users/shixi_yunrui/Developer/android-ndk-r15c/sources/cxx-stl/llvm-libc++abi/include  -isystem /Users/shixi_yunrui/Developer/android-ndk-r15c/sysroot/usr/include/arm-linux-androideabi -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv5te -mtune=xscale -msoft-float -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11  -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/Users/shixi_yunrui/Developer/projects/MagicCamera/Project-AndroidStudio/magicfilter/src/main/jni/bitmap/BitmapOperation.cpp",
+					"workingDirectory" : "/Users/shixi_yunrui/Developer/projects/MagicCamera/Project-AndroidStudio/magicfilter/.externalNativeBuild/cmake/debug/armeabi"
+				},
+				
+				{
+					"flags" : "  --target=armv5te-none-linux-androideabi --gcc-toolchain=/Users/shixi_yunrui/Developer/android-ndk-r15c/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/shixi_yunrui/Developer/android-ndk-r15c/sysroot  -Dmagic_EXPORTS -isystem /Users/shixi_yunrui/Developer/android-ndk-r15c/sources/cxx-stl/llvm-libc++/include -isystem /Users/shixi_yunrui/Developer/android-ndk-r15c/sources/android/support/include -isystem /Users/shixi_yunrui/Developer/android-ndk-r15c/sources/cxx-stl/llvm-libc++abi/include  -isystem /Users/shixi_yunrui/Developer/android-ndk-r15c/sysroot/usr/include/arm-linux-androideabi -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv5te -mtune=xscale -msoft-float -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11  -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/Users/shixi_yunrui/Developer/projects/MagicCamera/Project-AndroidStudio/magicfilter/src/main/jni/bitmap/Conversion.cpp",
+					"workingDirectory" : "/Users/shixi_yunrui/Developer/projects/MagicCamera/Project-AndroidStudio/magicfilter/.externalNativeBuild/cmake/debug/armeabi"
+				},
+				
+				{
+					"flags" : "  --target=armv5te-none-linux-androideabi --gcc-toolchain=/Users/shixi_yunrui/Developer/android-ndk-r15c/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/shixi_yunrui/Developer/android-ndk-r15c/sysroot  -Dmagic_EXPORTS -isystem /Users/shixi_yunrui/Developer/android-ndk-r15c/sources/cxx-stl/llvm-libc++/include -isystem /Users/shixi_yunrui/Developer/android-ndk-r15c/sources/android/support/include -isystem /Users/shixi_yunrui/Developer/android-ndk-r15c/sources/cxx-stl/llvm-libc++abi/include  -isystem /Users/shixi_yunrui/Developer/android-ndk-r15c/sysroot/usr/include/arm-linux-androideabi -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv5te -mtune=xscale -msoft-float -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11  -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/Users/shixi_yunrui/Developer/projects/MagicCamera/Project-AndroidStudio/magicfilter/src/main/jni/beautify/MagicBeautify.cpp",
+					"workingDirectory" : "/Users/shixi_yunrui/Developer/projects/MagicCamera/Project-AndroidStudio/magicfilter/.externalNativeBuild/cmake/debug/armeabi"
+				}
+			],
+			"output" : "/Users/shixi_yunrui/Developer/projects/MagicCamera/Project-AndroidStudio/magicfilter/build/intermediates/cmake/debug/obj/armeabi/libmagic.so",
+			"toolchain" : "11854498876138135483"
+		}
+	},
+	"toolchains" : 
+	{
+		"11854498876138135483" : 
+		{
+			"cCompilerExecutable" : "/Users/shixi_yunrui/Developer/android-ndk-r15c/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang",
+			"cppCompilerExecutable" : "/Users/shixi_yunrui/Developer/android-ndk-r15c/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++"
+		}
+	}
+}
